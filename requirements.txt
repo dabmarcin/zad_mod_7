@@ -5,3 +5,5 @@ streamlit
 streamlit-audiorecorder
 pydub
 plotly
+pandas
+pycaret
