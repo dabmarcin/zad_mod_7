@@ -1,0 +1,34 @@
+{
+    "Cluster 0": {
+        "name": "Miłośnicy Lasu i Psów z Wyższym Wykształceniem",
+        "description": "W tym klastrze znajdują się osoby w wieku 35-54 lat, głównie z wyższym wykształceniem, które preferują spędzanie czasu w lesie i mają psy jako ulubione zwierzęta. Większość z nich to mężczyźni."
+    },
+    "Cluster 1": {
+        "name": "Mężczyźni Nad Wodą z Wyższym Wykształceniem",
+        "description": "W tym klastrze dominują mężczyźni w wieku 35-44 lat z wyższym wykształceniem, którzy preferują spędzanie czasu nad wodą i mają psy jako ulubione zwierzęta."
+    },
+    "Cluster 2": {
+        "name": "Młodzi Miłośnicy Gór i Zwierząt",
+        "description": "W tym klastrze znajdują się głównie młodzi mężczyźni w wieku 18-34 lat ze średnim wykształceniem, którzy preferują spędzanie czasu w górach i mają różnorodne ulubione zwierzęta, w tym psy i koty."
+    },
+    "Cluster 3": {
+        "name": "Miłośnicy Gór z Wyższym Wykształceniem",
+        "description": "W tym klastrze znajdują się osoby w wieku 35-44 lat z wyższym wykształceniem, które preferują spędzanie czasu w górach i mają różnorodne ulubione zwierzęta, w tym psy i koty."
+    },
+    "Cluster 4": {
+        "name": "Miłośnicy Gór i Psów z Wyższym Wykształceniem",
+        "description": "W tym klastrze znajdują się osoby w wieku 25-54 lat z wyższym wykształceniem, które preferują spędzanie czasu w górach i mają psy jako ulubione zwierzęta. Większość z nich to mężczyźni."
+    },
+    "Cluster 5": {
+        "name": "Miłośnicy Wody i Psów z Wyższym Wykształceniem",
+        "description": "W tym klastrze znajdują się osoby w wieku 45-54 lat z wyższym wykształceniem, które preferują spędzanie czasu nad wodą i mają psy jako ulubione zwierzęta. W klastrze jest równowaga między mężczyznami a kobietami."
+    },
+    "Cluster 6": {
+        "name": "Miłośnicy Lasu i Innych Zwierząt",
+        "description": "W tym klastrze znajdują się osoby w wieku 45-54 lat z wyższym wykształceniem, które preferują spędzanie czasu w lesie i mają inne zwierzęta jako ulubione. Większość z nich to mężczyźni."
+    },
+    "Cluster 7": {
+        "name": "Wykształceni Samotni Miłośnicy Wody",
+        "description": "W tym klastrze znajdują się osoby w różnym wieku, głównie z wyższym wykształceniem, które nie mają ulubionych zwierząt i preferują spędzanie czasu nad wodą. Większość z nich to mężczyźni."
+    }
+}
